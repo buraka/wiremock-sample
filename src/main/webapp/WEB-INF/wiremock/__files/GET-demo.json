@@ -1,0 +1,15 @@
+{
+  "Data": {
+    "demo": [
+      {
+        "hi": "123"
+      }
+    ]
+  },
+  "Links": {
+    "Self": "/deni"
+  },
+  "Meta": {
+    "TotalPages": 1
+  }
+}
